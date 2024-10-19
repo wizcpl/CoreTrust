@@ -1,1 +1,1 @@
-# CoreTrust - OS, as APP
+# CoreTrust - App, as OS with Console!
