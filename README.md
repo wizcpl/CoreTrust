@@ -1,1 +1,1 @@
-# CoreTrust
+# CoreTrust - OS, as APP
