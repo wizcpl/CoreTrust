@@ -1,0 +1,5 @@
+﻿  Core.cpp
+D:\VS2019\CoreTrust\SFML_PROJECT\AppsOpener.h(22,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Core.cpp")
+  
+  SFML_PROJECT.vcxproj -> D:\VS2019\CoreTrust\x64\Debug\SFML_PROJECT.exe
